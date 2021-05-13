@@ -4,3 +4,4 @@ Git has a mutable index called stage.
 切换到了dev分支
 readme紧急修复bug
 又一次切换到了dev分支
+Creating a new branch is quick AND simple.
